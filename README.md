@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shushant-Rajput
-- 👀 I’m interested for java 
+- 👀 I’m interested in java 
 - 👀 I’m interested in java and android
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on coding
